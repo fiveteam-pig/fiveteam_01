@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_IN/fiveteam_IN.iml" filepath="$PROJECT_DIR$/fiveteam_IN/fiveteam_IN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_base/fiveteam_base.iml" filepath="$PROJECT_DIR$/fiveteam_base/fiveteam_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_common/fiveteam_common.iml" filepath="$PROJECT_DIR$/fiveteam_common/fiveteam_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_family/fiveteam_family.iml" filepath="$PROJECT_DIR$/fiveteam_family/fiveteam_family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_love/fiveteam_love.iml" filepath="$PROJECT_DIR$/fiveteam_love/fiveteam_love.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_parent.iml" filepath="$PROJECT_DIR$/fiveteam_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_school/fiveteam_school.iml" filepath="$PROJECT_DIR$/fiveteam_school/fiveteam_school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiveteam_user/fiveteam_user.iml" filepath="$PROJECT_DIR$/fiveteam_user/fiveteam_user.iml" />
+    </modules>
+  </component>
+</project>
